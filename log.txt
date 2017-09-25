@@ -1,0 +1,90 @@
+Command: my-tweets
+"School again\n""Roger Waters Show!\n"Command: my-tweets
+"School again\r\n""Roger Waters Show!\r\n"Command: my-tweets
+"School again\r\n""Roger Waters Show!\r\n"Command: my-tweets
+School again
+Roger Waters Show!
+Command: my-tweets
+School again
+Roger Waters Show!
+Command: spotify-this-songArtist: "Meshuggah"Track: "Gods Of Rapture"Preview URL: "https://p.scdn.co/mp3-preview/3b0cd3325912751a7ee920ba352056a678aa93f8?cid=1bcb09b178f347279f2f4e13011ac2df"Album: "None"
+Command: spotify-this-song
+Artist: Meshuggah
+Track: Gods Of Rapture
+Preview URL: https://p.scdn.co/mp3-preview/3b0cd3325912751a7ee920ba352056a678aa93f8?cid=1bcb09b178f347279f2f4e13011ac2df
+Album: None
+
+Command: spotify-this-song
+Artist: Meshuggah
+Track: Gods Of Rapture
+Preview URL: https://p.scdn.co/mp3-preview/3b0cd3325912751a7ee920ba352056a678aa93f8?cid=1bcb09b178f347279f2f4e13011ac2df
+Album: None
+
+Command: spotify-this-song
+Artist: Meshuggah
+Track: Gods Of Rapture
+Preview URL: https://p.scdn.co/mp3-preview/3b0cd3325912751a7ee920ba352056a678aa93f8?cid=1bcb09b178f347279f2f4e13011ac2df
+Album: None
+
+Command: my-tweets
+School again
+Roger Waters Show!
+
+Command: my-tweets
+0) School again
+1) Roger Waters Show!
+
+Command: my-tweets
+1) School again
+2) Roger Waters Show!
+
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Languages Offered: English, Spanish
+Plot Synopsis: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
+Actors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+Command: movie-this
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Languages Offered: English, Spanish
+Plot Synopsis: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
+Actors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+Command: movie-this
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Languages Offered: English, Spanish
+Plot Synopsis: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
+Actors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+
+Command: movie-this
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Languages Offered: English, Spanish
+Plot Synopsis: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
+Actors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+
+Command: movie-this
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Languages Offered: English, Spanish
+Plot Synopsis: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
+Actors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+
+Command: my-tweets
+1) School again
+2) Roger Waters Show!
